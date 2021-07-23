@@ -3,7 +3,7 @@ This is a project-oriented outline to teach kids the basics of coding. Students 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## Python Basics ##
-1. What is Python?
+1. [What is Python?](whatispython.md)
 2. Print Statements
 3. Variables
 4. Operators
