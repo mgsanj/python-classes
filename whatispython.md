@@ -1,7 +1,7 @@
 # What is Python? #
 Python is an *object-oriented language* and is known for it's code *readability*. Now, what does all of this mean? 
 
-Object-oriented programming basically means that Python puts things into individual boxes. Each boz has a label that 
+Object-oriented programming basically means that Python puts things into individual boxes. Each box has a label that 
 encompasses the contents. This basically means that a certain object (box) has it's own properties (contents) which you can 
 reuse throughout your program.
 
